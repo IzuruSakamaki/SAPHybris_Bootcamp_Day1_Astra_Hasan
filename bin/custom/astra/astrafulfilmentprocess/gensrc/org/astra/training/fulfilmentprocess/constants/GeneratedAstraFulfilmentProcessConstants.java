@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at Nov 14, 2022, 4:33:34 PM                    ---
+ * --- Generated at Nov 15, 2022, 8:21:09 AM                    ---
  * ----------------------------------------------------------------
  */
 package org.astra.training.fulfilmentprocess.constants;

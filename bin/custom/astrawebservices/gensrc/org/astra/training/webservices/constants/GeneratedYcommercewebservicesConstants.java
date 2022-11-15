@@ -4,18 +4,18 @@
  * --- Generated at Nov 15, 2022, 8:21:09 AM                    ---
  * ----------------------------------------------------------------
  */
-package org.astra.training.facades.constants;
+package org.astra.training.webservices.constants;
 
 /**
  * @deprecated since ages - use constants in Model classes instead
  */
 @Deprecated(since = "ages", forRemoval = false)
 @SuppressWarnings({"unused","cast"})
-public class GeneratedAstraFacadesConstants
+public class GeneratedYcommercewebservicesConstants
 {
-	public static final String EXTENSIONNAME = "astrafacades";
+	public static final String EXTENSIONNAME = "astrawebservices";
 	
-	protected GeneratedAstraFacadesConstants()
+	protected GeneratedYcommercewebservicesConstants()
 	{
 		// private constructor
 	}
